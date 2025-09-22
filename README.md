@@ -1,0 +1,1 @@
+This repository offers supplementary material for Maximilian Kleineberg's bachelor thesis "Extending the capabilities of AI structure prediction tools to reconstruct the locations of water molecules". It contains files that were used for dataset exploration, dataset curation, training, and evaluation. Also it contains several figures from the dataset exploration.
