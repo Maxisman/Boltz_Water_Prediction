@@ -1,0 +1,1632 @@
+[
+    {
+        "name": "AtomGroup 8t4c",
+        "rmsd": 3.370192459317302,
+        "average_distance": 5.426418146645636,
+        "water_rmsd": 6.049935806870561,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 7z8e",
+        "rmsd": 1.971821666847622,
+        "average_distance": 4.609476561809314,
+        "water_rmsd": 5.443036027417799,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 7ylz",
+        "rmsd": 0.9144605320170072,
+        "average_distance": 5.975096004594781,
+        "water_rmsd": 6.804658954549576,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8q44",
+        "rmsd": 8.014621726006494,
+        "average_distance": 4.75822502410406,
+        "water_rmsd": 5.174062324182711,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 8upi",
+        "rmsd": 1.4100416029556047,
+        "average_distance": 3.6883510174074674,
+        "water_rmsd": 4.157340971888017,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.9333333333333333,
+        "share<10A": 0.9333333333333333
+    },
+    {
+        "name": "AtomGroup 8ioo",
+        "rmsd": 4.436725325003874,
+        "average_distance": 6.543363072440361,
+        "water_rmsd": 6.825450323205711,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8h55",
+        "rmsd": 2.2130952001976776,
+        "average_distance": 6.057143105920475,
+        "water_rmsd": 7.354115954119518,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.1,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8iq8",
+        "rmsd": 1.3761114796067337,
+        "average_distance": 5.797501749913308,
+        "water_rmsd": 6.284844264347368,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8eel",
+        "rmsd": 0.7726864964752748,
+        "average_distance": 5.10213436676253,
+        "water_rmsd": 6.064917913573288,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.1,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 7z64",
+        "rmsd": 1.2505430450923845,
+        "average_distance": 3.6994137859965077,
+        "water_rmsd": 4.151629661005586,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.7333333333333333,
+        "share<10A": 0.7333333333333333
+    },
+    {
+        "name": "AtomGroup 7yl4",
+        "rmsd": 0.0,
+        "average_distance": 24.806509464201092,
+        "water_rmsd": 29.38702325131446,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 8qld",
+        "rmsd": 1.0138487864845451,
+        "average_distance": 3.7205634472909033,
+        "water_rmsd": 3.8991561110498543,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.8666666666666667,
+        "share<10A": 0.8666666666666667
+    },
+    {
+        "name": "AtomGroup 8s0u",
+        "rmsd": 3.2446344078398264,
+        "average_distance": 5.638443639439396,
+        "water_rmsd": 5.942810832794243,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 7tpu",
+        "rmsd": 2.0670962350174396,
+        "average_distance": 3.735669858573936,
+        "water_rmsd": 4.026095950620781,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.8,
+        "share<10A": 0.8
+    },
+    {
+        "name": "AtomGroup 7y3z",
+        "rmsd": 1.1185356542137563,
+        "average_distance": 30.477266831547723,
+        "water_rmsd": 31.157557680182588,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8ftv",
+        "rmsd": 1.0886219344549426,
+        "average_distance": 4.085435891932431,
+        "water_rmsd": 4.531337053800801,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.7333333333333333,
+        "share<10A": 0.7333333333333333
+    },
+    {
+        "name": "AtomGroup 8bve",
+        "rmsd": 9.525263866667995,
+        "average_distance": 5.224290971599127,
+        "water_rmsd": 5.463609875212926,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 8ga6",
+        "rmsd": 0.8922955338060975,
+        "average_distance": 10.962598199508289,
+        "water_rmsd": 11.75038063996957,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.1,
+        "share<10A": 0.1
+    },
+    {
+        "name": "AtomGroup 7vs6",
+        "rmsd": 0.9482103271796413,
+        "average_distance": 5.876786677407293,
+        "water_rmsd": 6.297973976269539,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 7qpk",
+        "rmsd": 7.008316461189599,
+        "average_distance": 7.253246966968854,
+        "water_rmsd": 8.344140821573136,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3,
+        "share<10A": 0.3
+    },
+    {
+        "name": "AtomGroup 7xcc",
+        "rmsd": 1.6602628653311773,
+        "average_distance": 6.779429017381671,
+        "water_rmsd": 7.555379439177652,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 7s2j",
+        "rmsd": 2.9959802632583226,
+        "average_distance": 4.722454301677436,
+        "water_rmsd": 5.005203476943214,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.6333333333333333,
+        "share<10A": 0.6333333333333333
+    },
+    {
+        "name": "AtomGroup 8a50",
+        "rmsd": 0.9884197795389016,
+        "average_distance": 3.1665686298256026,
+        "water_rmsd": 3.3929479183608753,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.9,
+        "share<10A": 0.9
+    },
+    {
+        "name": "AtomGroup 7xgv",
+        "rmsd": 25.386440123246096,
+        "average_distance": 4.720534882342778,
+        "water_rmsd": 5.076491317202615,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 8a90",
+        "rmsd": 1.1696711452835837,
+        "average_distance": 13.465455433860564,
+        "water_rmsd": 14.009884728387705,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8ju7",
+        "rmsd": 6.047479663709866,
+        "average_distance": 7.3397431822288635,
+        "water_rmsd": 7.972682372898133,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8gmx",
+        "rmsd": 17.875604588529942,
+        "average_distance": 15.188151659912066,
+        "water_rmsd": 15.415909879462298,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8dq6",
+        "rmsd": 1.4003163332613318,
+        "average_distance": 5.529583917712613,
+        "water_rmsd": 6.365132608997183,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8clu",
+        "rmsd": 2.6968777250829623,
+        "average_distance": 3.683018422096858,
+        "water_rmsd": 3.999036129581794,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.8,
+        "share<10A": 0.8
+    },
+    {
+        "name": "AtomGroup 7zao",
+        "rmsd": 4.544067264506827,
+        "average_distance": 3.2907395141218743,
+        "water_rmsd": 3.6906493197302574,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.8333333333333334,
+        "share<10A": 0.8333333333333334
+    },
+    {
+        "name": "AtomGroup 8b2s",
+        "rmsd": 12.131084995575282,
+        "average_distance": 5.780588174061884,
+        "water_rmsd": 6.431249279406116,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8e2b",
+        "rmsd": 6.877336820512974,
+        "average_distance": 5.34448579684235,
+        "water_rmsd": 5.764255280625182,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 8f70",
+        "rmsd": 1.7763568394002505e-15,
+        "average_distance": 23.682525804458294,
+        "water_rmsd": 25.082048758787305,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8gy0",
+        "rmsd": 2.8056796533503663,
+        "average_distance": 7.2058104633136395,
+        "water_rmsd": 7.98183672062083,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8g5s",
+        "rmsd": 1.3574809831511978,
+        "average_distance": 4.09174064279377,
+        "water_rmsd": 4.429319114590248,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6666666666666666,
+        "share<10A": 0.6666666666666666
+    },
+    {
+        "name": "AtomGroup 8pof",
+        "rmsd": 2.89265934813748,
+        "average_distance": 3.82750960376889,
+        "water_rmsd": 4.271243378537158,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.7666666666666667,
+        "share<10A": 0.7666666666666667
+    },
+    {
+        "name": "AtomGroup 7xhz",
+        "rmsd": 2.764495350757426,
+        "average_distance": 5.252686356861189,
+        "water_rmsd": 5.750891574584323,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 7xrx",
+        "rmsd": 1.4834491397827652,
+        "average_distance": 5.039882391097046,
+        "water_rmsd": 5.649109875182132,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 7wwc",
+        "rmsd": 2.505180786407216,
+        "average_distance": 5.0335628853536525,
+        "water_rmsd": 5.509347106898502,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8iw5",
+        "rmsd": 0.6886107204071351,
+        "average_distance": 6.249983906556929,
+        "water_rmsd": 7.047324900235214,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 8bck",
+        "rmsd": 8.881784197001252e-16,
+        "average_distance": 12.315747502052108,
+        "water_rmsd": 12.93673878193612,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8c9v",
+        "rmsd": 2.0211404564683737,
+        "average_distance": 5.333809091868048,
+        "water_rmsd": 6.0753911630577,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8sm6",
+        "rmsd": 2.4918258303005545,
+        "average_distance": 4.138460707754689,
+        "water_rmsd": 4.544864269551231,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 8hbr",
+        "rmsd": 1.2876201931250464,
+        "average_distance": 10.253464259955676,
+        "water_rmsd": 12.072753913706832,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8gdw",
+        "rmsd": 6.967595069763283,
+        "average_distance": 14.0415621251382,
+        "water_rmsd": 14.83740645228136,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8bw6",
+        "rmsd": 1.3360784945128583,
+        "average_distance": 5.617042862624251,
+        "water_rmsd": 6.0904363774597385,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8sot",
+        "rmsd": 4.483212793036312,
+        "average_distance": 8.065028587131577,
+        "water_rmsd": 9.379465553020642,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 7yh5",
+        "rmsd": 1.6010817507229724,
+        "average_distance": 15.854886149446141,
+        "water_rmsd": 16.651446286862406,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8ayr",
+        "rmsd": 7.105427357601002e-15,
+        "average_distance": 21.395667232654482,
+        "water_rmsd": 22.22629483151154,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8p6j",
+        "rmsd": 13.945550857496979,
+        "average_distance": 10.45841419290661,
+        "water_rmsd": 11.450478097974074,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8er5",
+        "rmsd": 4.2599073028667895,
+        "average_distance": 6.199872571890282,
+        "water_rmsd": 7.20115729572067,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 8hp8",
+        "rmsd": 2.6480546182160816,
+        "average_distance": 4.495693241087757,
+        "water_rmsd": 4.990240536227793,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 8p6m",
+        "rmsd": 0.8264407566078067,
+        "average_distance": 10.69216756044958,
+        "water_rmsd": 12.362944329895761,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.16666666666666666,
+        "share<10A": 0.16666666666666666
+    },
+    {
+        "name": "AtomGroup 8ay2",
+        "rmsd": 4.911028481992651,
+        "average_distance": 6.235338534113649,
+        "water_rmsd": 6.985827956445116,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 8k76",
+        "rmsd": 0.7645823919003354,
+        "average_distance": 3.236780051935135,
+        "water_rmsd": 4.307331670777442,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.1,
+        "share<5A": 0.8666666666666667,
+        "share<10A": 0.8666666666666667
+    },
+    {
+        "name": "AtomGroup 8r8a",
+        "rmsd": 1.0385267908827183,
+        "average_distance": 3.407420968548806,
+        "water_rmsd": 3.8722558104597704,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.9,
+        "share<10A": 0.9
+    },
+    {
+        "name": "AtomGroup 8ir2",
+        "rmsd": 2.038457004609432,
+        "average_distance": 4.331494149613891,
+        "water_rmsd": 4.807022568828845,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8fnr",
+        "rmsd": 1.045129378596933,
+        "average_distance": 4.93259655220812,
+        "water_rmsd": 5.420271927221348,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 8hgu",
+        "rmsd": 0.99302890637185,
+        "average_distance": 4.718409735009683,
+        "water_rmsd": 5.0808188465546635,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 7xnj",
+        "rmsd": 1.0988397693655627,
+        "average_distance": 7.023923274737544,
+        "water_rmsd": 7.371362523693358,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8t0p",
+        "rmsd": 1.896859348496959,
+        "average_distance": 5.551340248176809,
+        "water_rmsd": 6.001262347158804,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4666666666666667,
+        "share<10A": 0.4666666666666667
+    },
+    {
+        "name": "AtomGroup 8hi8",
+        "rmsd": 1.4952987524372265,
+        "average_distance": 9.66505752824209,
+        "water_rmsd": 10.81027017886203,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8ptj",
+        "rmsd": 29.008548196395232,
+        "average_distance": 35.59736536588939,
+        "water_rmsd": 36.134993901410205,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 7y16",
+        "rmsd": 3.147574621583792,
+        "average_distance": 5.228523839389015,
+        "water_rmsd": 5.892737058607525,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 7uwv",
+        "rmsd": 7.105427357601002e-15,
+        "average_distance": 5.227057863180692,
+        "water_rmsd": 6.527722277422909,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 7fct",
+        "rmsd": 1.5988092484850651,
+        "average_distance": 2.7495020814466526,
+        "water_rmsd": 3.3857474156042215,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.1,
+        "share<5A": 0.8666666666666667,
+        "share<10A": 0.8666666666666667
+    },
+    {
+        "name": "AtomGroup 8b6u",
+        "rmsd": 3.0946641951396168,
+        "average_distance": 5.324725752757852,
+        "water_rmsd": 5.96398128140482,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8are",
+        "rmsd": 0.9452721942937149,
+        "average_distance": 5.786289156685385,
+        "water_rmsd": 6.141989548579969,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 8k5u",
+        "rmsd": 2.0528660223303064,
+        "average_distance": 6.673514905714886,
+        "water_rmsd": 7.429443164981909,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 8phb",
+        "rmsd": 13.418877691582717,
+        "average_distance": 5.658547659692793,
+        "water_rmsd": 6.418130264663077,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8paq",
+        "rmsd": 8.667924157901274,
+        "average_distance": 7.424124202173575,
+        "water_rmsd": 7.9000659160487725,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.1,
+        "share<10A": 0.1
+    },
+    {
+        "name": "AtomGroup 8daj",
+        "rmsd": 1.3070398540942443,
+        "average_distance": 4.651751629860215,
+        "water_rmsd": 5.435978065756992,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8tnm",
+        "rmsd": 1.2028645354248755,
+        "average_distance": 6.427370268524156,
+        "water_rmsd": 6.7283279327960726,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8bnb",
+        "rmsd": 1.9651613439409257,
+        "average_distance": 5.432871263841199,
+        "water_rmsd": 5.947363708185158,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 7r5i",
+        "rmsd": 5.325963563521184,
+        "average_distance": 10.46355429915864,
+        "water_rmsd": 10.743177567013246,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 7qa1",
+        "rmsd": 9.788371849453727,
+        "average_distance": 5.206910502325534,
+        "water_rmsd": 6.100003783184403,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4666666666666667,
+        "share<10A": 0.4666666666666667
+    },
+    {
+        "name": "AtomGroup 8oei",
+        "rmsd": 0.8698640399524664,
+        "average_distance": 3.4623874907829273,
+        "water_rmsd": 4.034868627929223,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.7666666666666667,
+        "share<10A": 0.7666666666666667
+    },
+    {
+        "name": "AtomGroup 8axt",
+        "rmsd": 3.552713678800501e-15,
+        "average_distance": 6.309897105221027,
+        "water_rmsd": 6.721422871612082,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8fx9",
+        "rmsd": 1.5194220195207526,
+        "average_distance": 4.379983640618288,
+        "water_rmsd": 4.860003718672333,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 8ceg",
+        "rmsd": 2.5103226092024546,
+        "average_distance": 6.541474922492334,
+        "water_rmsd": 7.457063182244174,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 7qrr",
+        "rmsd": 16.916571878299074,
+        "average_distance": 4.760151856308628,
+        "water_rmsd": 5.018586131303896,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8bid",
+        "rmsd": 1.5545982373709193,
+        "average_distance": 6.632310197034856,
+        "water_rmsd": 7.345745452366263,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8b6q",
+        "rmsd": 11.040068868660958,
+        "average_distance": 21.34762654368297,
+        "water_rmsd": 21.928430684629944,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8ahd",
+        "rmsd": 2.542590302550405,
+        "average_distance": 4.260912167981346,
+        "water_rmsd": 4.619037461121582,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.7333333333333333,
+        "share<10A": 0.7333333333333333
+    },
+    {
+        "name": "AtomGroup 8chw",
+        "rmsd": 8.463462124045398,
+        "average_distance": 7.478582205768484,
+        "water_rmsd": 8.041734744094285,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8gyr",
+        "rmsd": 0.9052355976038137,
+        "average_distance": 4.361627408893601,
+        "water_rmsd": 4.9257982717706605,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 8bj3",
+        "rmsd": 0.8985955290803401,
+        "average_distance": 3.8458201182656286,
+        "water_rmsd": 4.2203119786083425,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 7yn2",
+        "rmsd": 13.131296452638248,
+        "average_distance": 4.779661861940008,
+        "water_rmsd": 5.192397380044278,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 8tjg",
+        "rmsd": 1.4467606622879876,
+        "average_distance": 5.851078451085947,
+        "water_rmsd": 6.360621823132781,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 8pr6",
+        "rmsd": 9.690555147655935,
+        "average_distance": 8.280848880181045,
+        "water_rmsd": 9.481173858480279,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3,
+        "share<10A": 0.3
+    },
+    {
+        "name": "AtomGroup 7xfu",
+        "rmsd": 4.6003541546856,
+        "average_distance": 8.279809341402672,
+        "water_rmsd": 9.03461241009198,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 7tl6",
+        "rmsd": 4.170778328380366,
+        "average_distance": 13.01860566280913,
+        "water_rmsd": 14.218919696949447,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.13333333333333333,
+        "share<10A": 0.13333333333333333
+    },
+    {
+        "name": "AtomGroup 8v14",
+        "rmsd": 5.102068330668809,
+        "average_distance": 6.808164425286832,
+        "water_rmsd": 7.6755062545082415,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 8gyg",
+        "rmsd": 1.9112901909828444,
+        "average_distance": 3.110417128650757,
+        "water_rmsd": 3.3662758763451115,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 1.0,
+        "share<10A": 1.0
+    },
+    {
+        "name": "AtomGroup 8fkl",
+        "rmsd": 2.1331909015163126,
+        "average_distance": 3.995519354711454,
+        "water_rmsd": 4.307900523625108,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.8333333333333334,
+        "share<10A": 0.8333333333333334
+    },
+    {
+        "name": "AtomGroup 8p0c",
+        "rmsd": 2.4782382568411268,
+        "average_distance": 4.302385587093285,
+        "water_rmsd": 4.850783167962158,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.7,
+        "share<10A": 0.7
+    },
+    {
+        "name": "AtomGroup 8ayv",
+        "rmsd": 0.7842449505407321,
+        "average_distance": 3.2148498496181532,
+        "water_rmsd": 3.7843866169227773,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.8333333333333334,
+        "share<10A": 0.8333333333333334
+    },
+    {
+        "name": "AtomGroup 8pt2",
+        "rmsd": 31.611643429133803,
+        "average_distance": 40.68392155821187,
+        "water_rmsd": 40.92002821015502,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8bh9",
+        "rmsd": 3.945084828099408,
+        "average_distance": 6.321481920542556,
+        "water_rmsd": 6.7475043991968615,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3,
+        "share<10A": 0.3
+    },
+    {
+        "name": "AtomGroup 8sxs",
+        "rmsd": 1.3286554153765808,
+        "average_distance": 4.044120049901649,
+        "water_rmsd": 4.514251263504192,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8bvi",
+        "rmsd": 3.76057767655076,
+        "average_distance": 17.90363661742863,
+        "water_rmsd": 19.032966018849226,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 7xgt",
+        "rmsd": 1.695203526572724,
+        "average_distance": 4.4342264043268536,
+        "water_rmsd": 5.1358980523112985,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6666666666666666,
+        "share<10A": 0.6666666666666666
+    },
+    {
+        "name": "AtomGroup 8irq",
+        "rmsd": 1.3292749537081627,
+        "average_distance": 5.27930867259734,
+        "water_rmsd": 5.81629182238281,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5666666666666667,
+        "share<10A": 0.5666666666666667
+    },
+    {
+        "name": "AtomGroup 8fjd",
+        "rmsd": 1.1533501017690018,
+        "average_distance": 16.6371939840465,
+        "water_rmsd": 17.962808051941487,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 7wrn",
+        "rmsd": 1.1515727949711998,
+        "average_distance": 3.3678086675223575,
+        "water_rmsd": 3.8445115338266302,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.8333333333333334,
+        "share<10A": 0.8333333333333334
+    },
+    {
+        "name": "AtomGroup 7y95",
+        "rmsd": 2.1268173755995883,
+        "average_distance": 4.168030373427457,
+        "water_rmsd": 4.523842920303146,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.6666666666666666,
+        "share<10A": 0.6666666666666666
+    },
+    {
+        "name": "AtomGroup 8eov",
+        "rmsd": 1.1045832059858351,
+        "average_distance": 5.8052062558536965,
+        "water_rmsd": 6.639816402021681,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8hiu",
+        "rmsd": 1.4465335759720646,
+        "average_distance": 18.176553225401523,
+        "water_rmsd": 19.265181236111594,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 7ylq",
+        "rmsd": 2.561315584386879,
+        "average_distance": 8.848255368981917,
+        "water_rmsd": 9.378868764705942,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 7qnl",
+        "rmsd": 0.90065596755118,
+        "average_distance": 4.050819629293794,
+        "water_rmsd": 4.7867383115680955,
+        "share<0.5A": 0.03333333333333333,
+        "share<1.0A": 0.1,
+        "share<5A": 0.6333333333333333,
+        "share<10A": 0.6333333333333333
+    },
+    {
+        "name": "AtomGroup 7y4h",
+        "rmsd": 0.9065000314499513,
+        "average_distance": 5.381054148355057,
+        "water_rmsd": 6.113530421360857,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 8x7x",
+        "rmsd": 3.5948295065596034,
+        "average_distance": 13.614533080533684,
+        "water_rmsd": 16.365544395785193,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.13333333333333333,
+        "share<10A": 0.13333333333333333
+    },
+    {
+        "name": "AtomGroup 7yuj",
+        "rmsd": 5.156114907747067,
+        "average_distance": 6.154182330421751,
+        "water_rmsd": 6.629129970414904,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 7wuy",
+        "rmsd": 1.7633638053313234,
+        "average_distance": 3.854788403325132,
+        "water_rmsd": 4.203968706060815,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.7666666666666667,
+        "share<10A": 0.7666666666666667
+    },
+    {
+        "name": "AtomGroup 8goy",
+        "rmsd": 1.0322494415557644,
+        "average_distance": 5.6853020448628175,
+        "water_rmsd": 6.1606602927283936,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 8add",
+        "rmsd": 1.2302297055116085,
+        "average_distance": 3.369155853929385,
+        "water_rmsd": 4.091646512180777,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.8,
+        "share<10A": 0.8
+    },
+    {
+        "name": "AtomGroup 8t3j",
+        "rmsd": 2.7841489225085767,
+        "average_distance": 11.250049667500111,
+        "water_rmsd": 12.644165246799767,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.16666666666666666,
+        "share<10A": 0.16666666666666666
+    },
+    {
+        "name": "AtomGroup 8iha",
+        "rmsd": 4.384116702083394,
+        "average_distance": 10.123900012895652,
+        "water_rmsd": 10.990774981857067,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8i3f",
+        "rmsd": 0.09568021448809992,
+        "average_distance": 4.932891072943256,
+        "water_rmsd": 5.217425082413341,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 8adc",
+        "rmsd": 14.484419237645172,
+        "average_distance": 5.424060375649114,
+        "water_rmsd": 5.92888800553738,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.4666666666666667,
+        "share<10A": 0.4666666666666667
+    },
+    {
+        "name": "AtomGroup 8hn0",
+        "rmsd": 7.611033532857363,
+        "average_distance": 7.926119707311794,
+        "water_rmsd": 8.23721264719712,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.13333333333333333,
+        "share<10A": 0.13333333333333333
+    },
+    {
+        "name": "AtomGroup 7u71",
+        "rmsd": 3.972054645195637e-15,
+        "average_distance": 18.37120878204329,
+        "water_rmsd": 23.698503188633243,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.16666666666666666,
+        "share<10A": 0.16666666666666666
+    },
+    {
+        "name": "AtomGroup 7xfs",
+        "rmsd": 0.5409610622519047,
+        "average_distance": 6.522709399635915,
+        "water_rmsd": 6.856726389066966,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.2,
+        "share<10A": 0.2
+    },
+    {
+        "name": "AtomGroup 8deo",
+        "rmsd": 5.329070518200751e-15,
+        "average_distance": 46.002388927320034,
+        "water_rmsd": 50.35686509651816,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8f9y",
+        "rmsd": 2.6459806860113084,
+        "average_distance": 16.753770125126355,
+        "water_rmsd": 18.32034507748113,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8ok3",
+        "rmsd": 2.590450456037221,
+        "average_distance": 3.9262237029547085,
+        "water_rmsd": 4.806637576281566,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.7666666666666667,
+        "share<10A": 0.7666666666666667
+    },
+    {
+        "name": "AtomGroup 8a39",
+        "rmsd": 2.744465505209445,
+        "average_distance": 15.687137468115592,
+        "water_rmsd": 16.727260947481874,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8px4",
+        "rmsd": 1.6641723205850425,
+        "average_distance": 10.284075451112232,
+        "water_rmsd": 11.002576370533927,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 7ui8",
+        "rmsd": 1.9103315021707383,
+        "average_distance": 7.776677081506357,
+        "water_rmsd": 9.231590478522032,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8q2a",
+        "rmsd": 3.7879650709621617,
+        "average_distance": 6.060089133755359,
+        "water_rmsd": 6.23183064130358,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.23333333333333334,
+        "share<10A": 0.23333333333333334
+    },
+    {
+        "name": "AtomGroup 8sdz",
+        "rmsd": 3.217860691411051,
+        "average_distance": 15.50757549489518,
+        "water_rmsd": 17.350675067134645,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.16666666666666666,
+        "share<10A": 0.16666666666666666
+    },
+    {
+        "name": "AtomGroup 7wmy",
+        "rmsd": 3.0533756376770893,
+        "average_distance": 6.825528189089764,
+        "water_rmsd": 7.325628307450627,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8wbr",
+        "rmsd": 1.6687423769398961,
+        "average_distance": 2.793511771910306,
+        "water_rmsd": 3.323346263527513,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.16666666666666666,
+        "share<5A": 0.8333333333333334,
+        "share<10A": 0.8333333333333334
+    },
+    {
+        "name": "AtomGroup 8bdq",
+        "rmsd": 0.9889829947951753,
+        "average_distance": 6.698238379128254,
+        "water_rmsd": 7.853855755854443,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 7xl7",
+        "rmsd": 1.4583051984400512,
+        "average_distance": 7.5484624408080006,
+        "water_rmsd": 7.902625873235561,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.26666666666666666,
+        "share<10A": 0.26666666666666666
+    },
+    {
+        "name": "AtomGroup 8cqm",
+        "rmsd": 1.842594812170128,
+        "average_distance": 9.945663277082781,
+        "water_rmsd": 10.58078804343297,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 7udl",
+        "rmsd": 1.4950943334607194,
+        "average_distance": 17.732648851573842,
+        "water_rmsd": 18.857129391553197,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.03333333333333333,
+        "share<10A": 0.03333333333333333
+    },
+    {
+        "name": "AtomGroup 8rh3",
+        "rmsd": 1.8255823788766594,
+        "average_distance": 6.860560546109526,
+        "water_rmsd": 7.49331350727136,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 8t66",
+        "rmsd": 2.2173298234760526,
+        "average_distance": 4.6569600134271525,
+        "water_rmsd": 5.08176584022493,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6333333333333333,
+        "share<10A": 0.6333333333333333
+    },
+    {
+        "name": "AtomGroup 8cb2",
+        "rmsd": 9.348881559381821,
+        "average_distance": 51.53263807286238,
+        "water_rmsd": 52.11302313264766,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8b2e",
+        "rmsd": 0.561195692508693,
+        "average_distance": 4.921770063266649,
+        "water_rmsd": 5.378517292051586,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 7unh",
+        "rmsd": 2.852212418613132,
+        "average_distance": 9.002136005103454,
+        "water_rmsd": 9.714975657978165,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.16666666666666666,
+        "share<10A": 0.16666666666666666
+    },
+    {
+        "name": "AtomGroup 8b6p",
+        "rmsd": 0.9393186326331281,
+        "average_distance": 4.567058998986659,
+        "water_rmsd": 5.330761874052086,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.06666666666666667,
+        "share<5A": 0.6,
+        "share<10A": 0.6
+    },
+    {
+        "name": "AtomGroup 8x6v",
+        "rmsd": 0.6954327740471882,
+        "average_distance": 6.0823387387882635,
+        "water_rmsd": 7.598934124890654,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 8ito",
+        "rmsd": 2.082646052079021,
+        "average_distance": 5.936220009988505,
+        "water_rmsd": 6.510419281721472,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.3333333333333333,
+        "share<10A": 0.3333333333333333
+    },
+    {
+        "name": "AtomGroup 7xs3",
+        "rmsd": 0.6149560682898643,
+        "average_distance": 5.576603902498665,
+        "water_rmsd": 6.291303649624052,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.4666666666666667,
+        "share<10A": 0.4666666666666667
+    },
+    {
+        "name": "AtomGroup 7y9a",
+        "rmsd": 1.893115428167938,
+        "average_distance": 6.113435184142613,
+        "water_rmsd": 7.005768863040772,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 7uoi",
+        "rmsd": 3.4608571431983117,
+        "average_distance": 4.4471161804852,
+        "water_rmsd": 4.814820075526392,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6666666666666666,
+        "share<10A": 0.6666666666666666
+    },
+    {
+        "name": "AtomGroup 8jmr",
+        "rmsd": 1.1957279753089856,
+        "average_distance": 5.375365639409121,
+        "water_rmsd": 5.908087157864267,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.4666666666666667,
+        "share<10A": 0.4666666666666667
+    },
+    {
+        "name": "AtomGroup 8pth",
+        "rmsd": 34.23231222386366,
+        "average_distance": 37.64621128476322,
+        "water_rmsd": 38.031450980086504,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8fw7",
+        "rmsd": 1.0202812234161607,
+        "average_distance": 11.48520099355137,
+        "water_rmsd": 12.16156572164095,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.06666666666666667,
+        "share<10A": 0.06666666666666667
+    },
+    {
+        "name": "AtomGroup 8cpk",
+        "rmsd": 1.4367355970647122,
+        "average_distance": 3.3041669856656926,
+        "water_rmsd": 3.6989707892589156,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.8666666666666667,
+        "share<10A": 0.8666666666666667
+    },
+    {
+        "name": "AtomGroup 8c27",
+        "rmsd": 6.527269183329673,
+        "average_distance": 16.225193577681424,
+        "water_rmsd": 17.69052788122783,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.1,
+        "share<10A": 0.1
+    },
+    {
+        "name": "AtomGroup 7xmj",
+        "rmsd": 2.4832037939922285,
+        "average_distance": 3.759529207116997,
+        "water_rmsd": 4.176458312440752,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.7666666666666667,
+        "share<10A": 0.7666666666666667
+    },
+    {
+        "name": "AtomGroup 7ykg",
+        "rmsd": 3.89404347467393,
+        "average_distance": 7.484893410073267,
+        "water_rmsd": 9.256363936851216,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.43333333333333335,
+        "share<10A": 0.43333333333333335
+    },
+    {
+        "name": "AtomGroup 8cil",
+        "rmsd": 2.9849899519282173,
+        "average_distance": 5.0730258644061195,
+        "water_rmsd": 5.596743519248329,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5,
+        "share<10A": 0.5
+    },
+    {
+        "name": "AtomGroup 8psq",
+        "rmsd": 25.40039604814209,
+        "average_distance": 33.41864269348116,
+        "water_rmsd": 34.1626817705216,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "AtomGroup 8a82",
+        "rmsd": 6.96997525680016,
+        "average_distance": 5.621462057480593,
+        "water_rmsd": 6.050119892111269,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.36666666666666664,
+        "share<10A": 0.36666666666666664
+    },
+    {
+        "name": "AtomGroup 8bbr",
+        "rmsd": 0.7255497455037224,
+        "average_distance": 4.538762789546905,
+        "water_rmsd": 5.098374612092676,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.6333333333333333,
+        "share<10A": 0.6333333333333333
+    },
+    {
+        "name": "AtomGroup 8s9w",
+        "rmsd": 1.6586764196357864,
+        "average_distance": 6.777310580699046,
+        "water_rmsd": 8.130368843927306,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.03333333333333333,
+        "share<5A": 0.4,
+        "share<10A": 0.4
+    },
+    {
+        "name": "AtomGroup 8p5q",
+        "rmsd": 3.7639644049943093,
+        "average_distance": 5.030410626723747,
+        "water_rmsd": 5.365012519848713,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.5333333333333333,
+        "share<10A": 0.5333333333333333
+    },
+    {
+        "name": "AtomGroup 8bh8",
+        "rmsd": 3.6516080356976417,
+        "average_distance": 19.915148258250024,
+        "water_rmsd": 20.21757998674649,
+        "share<0.5A": 0.0,
+        "share<1.0A": 0.0,
+        "share<5A": 0.0,
+        "share<10A": 0.0
+    },
+    {
+        "name": "general",
+        "rmsd": 3.8978729857516465,
+        "average_distance": 8.696885552309725,
+        "water_rmsd": 9.454550943528144,
+        "share<0.5A": 0.0024691358024691358,
+        "share<1.0A": 0.01625514403292181,
+        "share<5.0A": 0.4102880658436214,
+        "share<10.0A": 0.7635802469135803
+    }
+]
